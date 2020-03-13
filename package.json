@@ -1,0 +1,34 @@
+{
+  "name": "socials-count-subs",
+  "version": "1.0.5",
+  "description": "Give you the count of followers / subscribers of Twitter, Youtube, Facebook, Twitch",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoukie33/socials_count_subs.git"
+  },
+  "keywords": [
+    "zoukie",
+    "npm",
+    "package",
+    "twitter",
+    "facebook",
+    "youtube",
+    "twitch",
+    "count",
+    "subscribers",
+    "followers"
+  ],
+  "author": "Zoukie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoukie33/socials_count_subs/issues"
+  },
+  "homepage": "https://github.com/zoukie33/socials_count_subs#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
